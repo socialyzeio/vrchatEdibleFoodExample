@@ -1,11 +1,11 @@
 # Installation
 
-## Download
-
-### Prequisitions (installed)
+## Prequisitions (installed)
 
 * VRChat
 * Unity (tested on Version 2018.1.5f1 Personal)
+
+## Download
 
 ### Via Zip File
 
